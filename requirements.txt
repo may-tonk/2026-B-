@@ -1,0 +1,10 @@
+numpy>=2.0
+pandas>=2.2
+openpyxl>=3.1
+matplotlib>=3.10
+scipy>=1.16
+seaborn>=0.13
+networkx>=3.5
+pulp>=3.3
+pytest>=8.4
+tqdm>=4.67
